@@ -1,10 +1,14 @@
 Freelancer Rush
 =======
 
-[Begin Freelancer RUSH](javascript:var%20s=document.createElement\('script'\);s.type='text/javascript';document.body.appendChild\(s\);s.src='https://raw.github.com/fanfan6ji581/FreelancerRush/master/BirdBug.js')<br />
+[Begin Freelancer RUSH]<br />
 
 
-<a href="javascript:var%20s=document.createElement('script');s.type='text/javascript';document.body.appendChild(s);s.src='https://raw.github.com/fanfan6ji581/FreelancerRush/master/BirdBug.js';void(0)">Freelancer Rush</a>
+Freelancer Rush
 
-javascript:var%20s=document.createElement('script');s.type='text/javascript';document.body.appendChild(s);
-s.src='https://raw.github.com/fanfan6ji581/BirdBug/master/freelancer.rush.js'
+<br/>
+In chrome,
+1. Create a bookmark, put the following codes as the URL. <br/>
+2. Browser any website (gmail), click the book mark in that page. Then the freelancer rush comes. <br/>
+
+javascript:var%20s=document.createElement('script');s.type='text/javascript';document.body.appendChild(s);s.src='https://raw.github.com/fanfan6ji581/FreelancerRush/master/freelancer.rush.js';void(0);
