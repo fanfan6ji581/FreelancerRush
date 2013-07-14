@@ -17,7 +17,7 @@
       max = Math.max;
       
   
-  // class, each Bug
+  // class, each Bird
   function FreelancerBird(){
     this.x = random()*200; // position
     this.y = random()*200; // position
@@ -27,10 +27,10 @@
     this.target = null;
     this.gameOver = false;
     
-    this.logoLeft = "https://raw.github.com/fanfan6ji581/FreelancerRush/master/left.png";
-    this.logoRight = "https://raw.github.com/fanfan6ji581/FreelancerRush/master/right.png";
+    this.logoLeft = "https://raw.github.com/fanfan6ji581/FreelancerBird/master/left.png";
+    this.logoRight = "https://raw.github.com/fanfan6ji581/FreelancerBird/master/right.png";
     
-    this.element = $('<birdBug class="antiFreelancerBird">').css({
+    this.element = $('<div class="antiFreelancerBird">').css({
       width: this.width,
       height: this.height,
       position: 'absolute',
@@ -101,7 +101,7 @@
   };
 
   /** 
-    for each birdBug, it has 3 status
+    for each bird, it has 3 status
     1. eating
     2. Find target / Moving to target / Reach target
     3. no more target, than die
