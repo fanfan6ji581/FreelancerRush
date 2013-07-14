@@ -7,7 +7,7 @@ Freelancer Rush
 Freelancer Rush
 <br/>
 
-1.With Chrome, create a bookmark, then edit it, and use the following codes as the URL. 
+1. With Chrome, create a bookmark, then edit it, and use the following codes as the URL. 
 <br/>
 
 javascript:var%20s=document.createElement('script');document.body.appendChild(s);<br/>
