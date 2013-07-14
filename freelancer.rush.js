@@ -27,8 +27,8 @@
     this.target = null;
     this.gameOver = false;
     
-    this.logoLeft = "https://raw.github.com/fanfan6ji581/FreelancerBird/master/left.png";
-    this.logoRight = "https://raw.github.com/fanfan6ji581/FreelancerBird/master/right.png";
+    this.logoLeft = "https://raw.github.com/fanfan6ji581/FreelancerRush/master/left.png";
+    this.logoRight = "https://raw.github.com/fanfan6ji581/FreelancerRush/master/right.png";
     
     this.element = $('<div class="antiFreelancerBird">').css({
       width: this.width,
